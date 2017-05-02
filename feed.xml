@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bright colorful flickers</title>
+    <description>LEDs from radon canyon and beyond. wearables, cosplay, etc.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 May 2017 00:49:53 -0400</pubDate>
+    <lastBuildDate>Tue, 02 May 2017 00:49:53 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>Glowing Ita Bag</title>
+        <description>&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs arranged in a heart shape. The LEDs backlight acrylic charms pinned to a layer of fabric over the LEDs. For full details and build instructions, please visit my &lt;a href=&quot;https://www.instructables.com/id/Glowing-LED-Ita-Bag/&quot;&gt;instructable&lt;/a&gt;. All code is in my &lt;a href=&quot;https://github.com/brightcolorfulflickers/glowingitabag&quot;&gt;GitHub repo here&lt;/a&gt;. Additionally, I documented my build as a &lt;a href=&quot;https://twitter.com/i/moments/858721653039276033&quot;&gt;twitter moment&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/itabag.jpg&quot; alt=&quot;&quot; title=&quot;glowing ita bag&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 29 Apr 2017 18:39:40 -0400</pubDate>
+        <link>http://yourdomain.com/2017/04/29/glowing-ita-bag/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2017/04/29/glowing-ita-bag/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>LED Protest Sign</title>
+        <description>&lt;p&gt;I made a re-usable LED protest sign. This sign is powered by an Adafruit M0 Adalogger. A text file with messages is stored on the LED card, and messages scroll across the LED matrix. The holder uses a dipswitch to select the message from the text file.&lt;/p&gt;
+
+&lt;p&gt;I brought this sign to the March for Science in Washington, DC, on April 22, 2017. Although it was raining, a clear plastic trashbag protected it from the elements, and it survived the march.&lt;/p&gt;
+
+&lt;p&gt;All code and schematics are available in &lt;a href=&quot;https://github.com/brightcolorfulflickers/protestsignhttps://github.com/brightcolorfulflickers/protestsign&quot;&gt;my GitHub repo here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/protestselfie.jpg&quot; alt=&quot;&quot; title=&quot;protest sign at the march for science&quot; /&gt;
+&lt;img src=&quot;/img/protestsign.jpg&quot; alt=&quot;&quot; title=&quot;protest sign&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Apr 2017 07:19:40 -0400</pubDate>
+        <link>http://yourdomain.com/2017/04/22/led-protest-sign/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2017/04/22/led-protest-sign/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Glow Cloud Dress</title>
+        <description>&lt;p&gt;This is my cosplay of the Glow Cloud from the podcast Welcome to Night Vale. I wore this cosplay to the 2017 live show in Washington, DC. The live show focused on the Glow Cloud, so I knew I had to one-up my glow cloud from last year. My cosplay was featured on the official WTNV instagram &lt;a href=&quot;https://www.instagram.com/p/BTKB_0dAsNp/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs on a hoop skirt. I documented my build as a &lt;a href=&quot;https://twitter.com/i/moments/848890295148261377&quot;&gt;twitter moment&lt;/a&gt;. More details on the build and a list of materials are on &lt;a href=&quot;http://brightcolorfulflickers.tumblr.com/post/159579762717/glow-cloud-dress-build&quot;&gt;my tumblr here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/gcdress1.jpg&quot; alt=&quot;&quot; title=&quot;glow cloud dress&quot; /&gt;
+&lt;img src=&quot;/img/gcdress2.jpg&quot; alt=&quot;&quot; title=&quot;glow cloud with symphony sanders&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2017 13:39:40 -0400</pubDate>
+        <link>http://yourdomain.com/2017/04/13/glow-cloud-dress/</link>
+        <guid isPermaLink="true">http://yourdomain.com/2017/04/13/glow-cloud-dress/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
