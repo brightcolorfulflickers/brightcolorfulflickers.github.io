@@ -6,13 +6,13 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 03 May 2017 00:44:32 -0400</pubDate>
-    <lastBuildDate>Wed, 03 May 2017 00:44:32 -0400</lastBuildDate>
+    <pubDate>Wed, 03 May 2017 22:48:55 -0400</pubDate>
+    <lastBuildDate>Wed, 03 May 2017 22:48:55 -0400</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
         <title>Glowing Ita Bag</title>
-        <description>&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs arranged in a heart shape. The LEDs backlight acrylic charms pinned to a layer of fabric over the LEDs.&lt;/p&gt;
+        <description>&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs arranged in a heart shape. The LEDs backlight acrylic charms pinned to a layer of fabric over the LEDs. Animations can be cycled using one of the buttons built in to the Circuit Playground, and the current animation number is indicated by incrementing over the Neopixel LEDs on the board.&lt;/p&gt;
 
 &lt;h4&gt;DOCUMENTATION&lt;/h4&gt;
 &lt;ul&gt;
@@ -55,7 +55,7 @@
         <title>Glow Cloud Dress</title>
         <description>&lt;p&gt;This is my cosplay of the Glow Cloud from the podcast Welcome to Night Vale. I wore this cosplay to the 2017 live show in Washington, DC. The live show focused on the Glow Cloud, so I knew I had to one-up my glow cloud from last year. My cosplay was featured on the official WTNV instagram &lt;a href=&quot;https://www.instagram.com/p/BTKB_0dAsNp/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs on a hoop skirt.&lt;/p&gt;
+&lt;p&gt;This project uses an Adafruit Circuit Playground to animate addressable LEDs on a hoop skirt. Animations can be cycled using one of the buttons built in to the Circuit Playground, and the current animation number is indicated by incrementing over the Neopixel LEDs on the board.&lt;/p&gt;
 
 &lt;h4&gt;DOCUMENTATION&lt;/h4&gt;
 &lt;ul&gt;
